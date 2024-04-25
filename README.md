@@ -1,6 +1,4 @@
-# React + JS + Vite
-
-## SmartHome
+# SmartHome
 
 This is a university project that has basic CRUD features that handle an e-commerce shop.
 
